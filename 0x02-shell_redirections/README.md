@@ -1,1 +1,1 @@
-Shells Input/Output redirections
+Shell, I/O Redirections and filters
